@@ -1,1 +1,46 @@
+.body {
+    font: 13px/1.5 sans-serif;
+}
 
+.intro-container {
+    text-align: justify;
+    vertical-align: top;
+    width: 80%;
+    font-size: 150%;
+    margin: 0 auto;
+    padding: .5em 1em;
+}
+
+p {
+    margin: 1em;
+}
+
+b {
+    font-weight: bold;
+}
+
+.page {
+    white-space: nowrap;
+    outline: 0;
+    color: #0645AD;
+    text-decoration: none;
+}
+
+.intro-third {
+    text-align: right;
+}
+
+.body-container {
+    width: 80%;
+    margin: 1.5em auto;
+}
+
+.link-container {
+    width: 24.75%;
+    min-width: 150px;
+    height: 175px;
+    float: left;
+}
+
+img {
+}
